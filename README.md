@@ -1,6 +1,8 @@
 # Managing Large-Scale Website Content and Internal Linking
 
 An overview of how I manage content across a website, visualize internal linking structure, and track keywords in a simple keyword database.
+
+[Read more about my SEO and other related projects here.](https://rkseo.xyz)
 ### Context
 Efficiently managing internal linking and tracking content across a vast number of blogs on a large-scale website can very quickly become a bit of a nightmare. This complexity often makes it far more difficult to manage the internal linking of the website as the website and it's content continues to scale. 
 
@@ -61,14 +63,3 @@ In the future I'd like to build some sort of web crawler that can go verify link
 - [Google Looker Studio](https://lookerstudio.google.com/)
 - [Semrush](https://www.semrush.com/), [Ahrefs](https://ahrefs.com/)
 - [Kyle Roof's Silo Structure](https://hvseo.co/blog/the-hidden-hero-of-on-page-seo-reverse-content-silos/)
-- 
-
-
-
-
-
-
-
-
-
-
